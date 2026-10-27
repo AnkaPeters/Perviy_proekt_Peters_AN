@@ -1,0 +1,3 @@
+Anka@LAPTOP-FVVIOUPP:~$ ls /
+bin   dev  home  lib    lost+found  mnt  proc  run   snap  sys  usr
+boot  etc  init  lib64  media       opt  root  sbin  srv   tmp  var

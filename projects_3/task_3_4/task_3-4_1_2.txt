@@ -1,0 +1,11 @@
+Anka@LAPTOP-FVVIOUPP:~$ ls -lah
+
+total 28K
+drwxr-x--- 3 Anka Anka 4.0K Oct 26 20:15 .
+drwxr-xr-x 3 root root 4.0K Oct 23 16:52 ..
+-rw-r--r-- 1 Anka Anka  220 Oct 23 16:52 .bash_logout
+-rw-r--r-- 1 Anka Anka 3.7K Oct 23 16:52 .bashrc
+drwxr-xr-x 2 Anka Anka 4.0K Oct 26 20:08 .landscape
+-rw------- 1 Anka Anka   20 Oct 26 20:15 .lesshst
+-rw-r--r-- 1 Anka Anka    0 Oct 26 20:08 .motd_shown
+-rw-r--r-- 1 Anka Anka  807 Oct 23 16:52 .profile
